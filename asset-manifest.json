@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.527852d9.css",
+    "main.js": "/static/js/main.ae038a58.js",
+    "static/media/shopping-mall.png": "/static/media/shopping-mall.fbd5759f42e1b821ad84.png",
+    "static/media/dog-shleter.png": "/static/media/dog-shleter.d62d5884c8a1dd564a84.png",
+    "static/media/firebase.svg": "/static/media/firebase.05ce53b2579c582f35ea.svg",
+    "static/media/typescript.svg": "/static/media/typescript.c48ed63aa25e2a4b3ab3.svg",
+    "static/media/css3.svg": "/static/media/css3.563525c863f9a19fa056.svg",
+    "static/media/javascript.svg": "/static/media/javascript.b17d4ca90545e71d46a4.svg",
+    "index.html": "/index.html",
+    "static/media/html5.svg": "/static/media/html5.f993da533839d4af8a2a.svg",
+    "static/media/react.svg": "/static/media/react.e1cb8701b3010fa1cefa.svg",
+    "main.527852d9.css.map": "/static/css/main.527852d9.css.map",
+    "main.ae038a58.js.map": "/static/js/main.ae038a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527852d9.css",
+    "static/js/main.ae038a58.js"
+  ]
+}
